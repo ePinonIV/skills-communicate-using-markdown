@@ -4,4 +4,10 @@
 
 ![Image of birria tacos](https://cookingwithcocktailrings.com/wp-content/uploads/2021/11/Birria-Tacos-114.jpg)
 
+``` c++
+int main() {
+  printf("Hello world!");
+}
+```
+
 Added header descriptions to top of file
