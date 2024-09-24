@@ -9,5 +9,11 @@ int main() {
   printf("Hello world!");
 }
 ```
+ 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] This item is not complete
+- [X] This item is complete
 
 Added header descriptions to top of file
